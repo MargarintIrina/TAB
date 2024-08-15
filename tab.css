@@ -20,12 +20,12 @@
 .tab::after{
         right: -25px;
         bottom: 0;
-background-image: radial-gradient(circle at top right, transparent 70%,  #333 30%);;
+background-image: radial-gradient(circle at top right, transparent 71%,  #333 29%);;
 }
 
 
 .tab::before{
         left: -25px;
         bottom: 0;
-        background-image: radial-gradient(circle at top left, transparent 70%,  #333 30%);;
+        background-image: radial-gradient(circle at top left, transparent 71%,  #333 29%);;
 }
